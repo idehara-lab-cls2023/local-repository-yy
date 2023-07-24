@@ -18,7 +18,7 @@ Oxygen not includedというゲームがあります。これは、宇宙にコ�
 
 ### コンピュータシミュレーションのもつ問題点について調べ、記述しなさい。
 
-問題点は、シミュレーションの元となる部分の構築、データの準備、計算時間の短縮化、実現性などが挙げられます。
+問題点は、シミュレーションモデルの構築、データの準備、計算時間の短縮化、実現性などが挙げられます。シミュレーションモデルは、数学的な近似によって、限界があり、現実と全く同じように再現できません。
 
 参考文献：
 ChatGPT：https://chat.openai.com/c/b450afa4-2c58-4b43-9a81-93cb0e42d905
@@ -34,6 +34,7 @@ ChatGPT：https://chat.openai.com/c/b450afa4-2c58-4b43-9a81-93cb0e42d905
 
 https://kotobank.jp/word/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-178189
 参照部分：「コンピュータを使った計算で現実の世界を模擬すること。」
+
 https://www.google.com/search?q=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E8%AA%B2%E9%A1%8C&rlz=1C1EQFE_jaJP988JP994&ei=hG-9ZNjzC4fM2roPo6Sf6Ag&ved=0ahUKEwjYxev2uKWAAxUHplYBHSPSB40Q4dUDCA8&uact=5&oq=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E8%AA%B2%E9%A1%8C&gs_lp=Egxnd3Mtd2l6LXNlcnAiNOOCs-ODs-ODlOODpeODvOOCv-ODvOOCt-ODn-ODpeODrOODvOOCt-ODp-ODsyDoqrLpoYwyBRAAGKIEMgUQABiiBDIFEAAYogRI8RlQmRhYmRhwA3gBkAEAmAFsoAFsqgEDMC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
 参照部分：
 「コンピュータでのシミュレーションの技術的な課題には, シミュレーションモデルの構築と検証の容易化, シミュレー ションの実行用入力データの準備の容易化及びシミュレーシ ョンの実行に要する計算時間の短縮がある。」
